@@ -6,6 +6,6 @@
   "author": "yarons <yaron@xmcyber.com>",
   "license": "MIT",
   "dependencies": {
-    "crypto-js": "4.1.1"
+    "crypto-js": "4.2.0"
   }
 }
