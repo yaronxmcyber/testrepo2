@@ -1,0 +1,8 @@
+{
+  "name": "testrepo2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yaronxmcyber/testrepo2",
+  "author": "yarons <yaron@xmcyber.com>",
+  "license": "MIT"
+}
