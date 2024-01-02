@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/yaronxmcyber/testrepo2",
   "author": "yarons <yaron@xmcyber.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "4.1.1"
+  }
 }
